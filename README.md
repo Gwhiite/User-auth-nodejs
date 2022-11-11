@@ -1,1 +1,2 @@
-# User-auth-nodejs
+Simples auth with nodejs. Using bcrypt and expressjs
+
